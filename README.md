@@ -44,7 +44,7 @@
 
 ## Execution :
 
-	Compile and run the main class StudentDataApplication.java
+	Compile and run the main class in src/com/studentDataList StudentDataApplication.java
 
 
 ## Final Output:
